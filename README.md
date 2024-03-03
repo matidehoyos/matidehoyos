@@ -1,8 +1,8 @@
 ![Welcome to the official GitHub profile of @matidehoyos]
 
 Elsewhere on the internet
-🤝🏻 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matias-de-hoyos-802bb4212/)
 
+🤝🏻 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/matias-de-hoyos-802bb4212/)
 E-mail: mati.dehoyosmdp@gmail.com
 About Matias
 Mucho gusto! Mi nombre es Matias De Hoyos, soy desarrollador full stack. Siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo back aunque mi preferencia es 100% front.
