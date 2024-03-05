@@ -8,13 +8,12 @@ Elsewhere on the internet
 ### About Matias
 Mucho gusto! Mi nombre es Matias De Hoyos, soy desarrollador full stack. Siempre me encuentro en constante aprendizaje para poder seguir desarrollandome y crecer profesionalmente, actualmente este es el stack que manejo, manejo back aunque mi preferencia es 100% front.
 
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node**
 - **React**
-- **React-Native**
 - **Redux**
 - **MongoDB**
 - **Postgres**
 - **Sql**
-- **Node**
 - **Express**
 - **HTML**
 - **CSS**
