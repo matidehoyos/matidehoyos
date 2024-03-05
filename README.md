@@ -3,6 +3,11 @@
  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola,+soy+Matias+De+Hoyos!+%F0%9F%91%8B;Full+Stack+Developer;" alt="Headline" />
  </div>
 
+ # 
+<div align="center">
+ <img align="center" src="https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg" alt="Headline" />
+ </div>
+
 #
 
 <h3>Quien Soy?</h3>
