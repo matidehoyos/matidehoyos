@@ -1,7 +1,7 @@
-# 
-<div align="center" >
-  ### Hola, soy Matias! Desarrollador web full stack
- </div>
+###
+<h1 align="center" >
+  Hola, soy Matias! Desarrollador web full stack
+ </h1>
 
  # 
 <div align="center" width="100%" height="100px">
