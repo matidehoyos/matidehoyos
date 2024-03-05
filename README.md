@@ -14,6 +14,10 @@
 🔭 Actualmente sigo desarrollandome y descubriendo nuevas tecnologías. Paralelamente a eso, sigo creando proyectos para ganar experiencia y afianzar los conocimientos adquiridos.
 </p>
 
+
+
+
+
 #
 <h3 align="center">Tecnologías que utilizo:</h3>
 
@@ -63,9 +67,8 @@
   </a>
   </div>
 
-<p align="center">
-De igual manera, sigo ampliando mis conocimientos segun sea requerido con el fin de optimizar mejor las aplicaciones o proyectos en los que me encuentre trabajando.
-</p>
+
+
 
 #
 <h3 align="center">No dudes en contactarme:</h3>
