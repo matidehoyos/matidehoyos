@@ -4,8 +4,8 @@
  </div>
 
  # 
-<div align="center" width="100%" height="300px">
- <img width="100%" height="100%" src="https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg" alt="Headline" />
+<div align="center" width="100%" height="100px">
+ <img width="100%" height="100px" src="https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg" alt="Headline" />
  </div>
 
 #
