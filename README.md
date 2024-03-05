@@ -5,7 +5,7 @@
 
  # 
 <div align="center" width="100%" height="100px">
- <img style="object-fit: cover;" width="100%" height="100px" src="https://img.freepik.com/foto-gratis/imagen-primer-plano-programador-trabajando-su-escritorio-oficina_1098-18707.jpg" alt="Headline" />
+ <img width="100%" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0I8pymIXWf3WQgqXmspwkjqu26E1t0SKXg&usqp=CAU" alt="Headline" />
  </div>
 
 #
