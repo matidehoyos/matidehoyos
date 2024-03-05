@@ -4,8 +4,8 @@
  </h1>
 
  # 
-<div align="center" width="100%" height="100px">
- <img width="100%" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0I8pymIXWf3WQgqXmspwkjqu26E1t0SKXg&usqp=CAU" alt="Headline" />
+<div align="center" width="100%">
+ <img width="100%"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0I8pymIXWf3WQgqXmspwkjqu26E1t0SKXg&usqp=CAU" alt="Headline" />
  </div>
 
 #
