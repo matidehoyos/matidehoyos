@@ -1,5 +1,5 @@
 ###
-<h1 align="center" color="violet" >
+<h1 align="center" color="blue" >
   Hola, soy Matias! Desarrollador web full stack
  </h1>
 
