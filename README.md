@@ -1,6 +1,6 @@
 # 
-<div align="center">
- <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola+soy+Matias+Full+Stack+Developer" alt="Headline" />
+<div align="center" width="100%">
+ <img align="center"  src="https://readme-typing-svg.herokuapp.com?color=%3498DB&size=32&center=true&vCenter=true&width=600&height=50&lines=¡Hola+soy+Matias+Full+Stack+Developer" alt="Headline" />
  </div>
 
  # 
